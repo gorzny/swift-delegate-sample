@@ -12,6 +12,7 @@
 		B21ADF18201AC26F003B1C8F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B21ADF16201AC26F003B1C8F /* Main.storyboard */; };
 		B21ADF1A201AC26F003B1C8F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B21ADF19201AC26F003B1C8F /* Assets.xcassets */; };
 		B21ADF1D201AC26F003B1C8F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B21ADF1B201AC26F003B1C8F /* LaunchScreen.storyboard */; };
+		B21ADF25201AC30F003B1C8F /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = B21ADF24201AC30F003B1C8F /* ViewController2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		B21ADF19201AC26F003B1C8F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B21ADF1C201AC26F003B1C8F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B21ADF1E201AC26F003B1C8F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B21ADF24201AC30F003B1C8F /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				B21ADF12201AC26F003B1C8F /* AppDelegate.swift */,
 				B21ADF14201AC26F003B1C8F /* ViewController.swift */,
 				B21ADF16201AC26F003B1C8F /* Main.storyboard */,
+				B21ADF24201AC30F003B1C8F /* ViewController2.swift */,
 				B21ADF19201AC26F003B1C8F /* Assets.xcassets */,
 				B21ADF1B201AC26F003B1C8F /* LaunchScreen.storyboard */,
 				B21ADF1E201AC26F003B1C8F /* Info.plist */,
@@ -138,6 +141,7 @@
 			files = (
 				B21ADF15201AC26F003B1C8F /* ViewController.swift in Sources */,
 				B21ADF13201AC26F003B1C8F /* AppDelegate.swift in Sources */,
+				B21ADF25201AC30F003B1C8F /* ViewController2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
